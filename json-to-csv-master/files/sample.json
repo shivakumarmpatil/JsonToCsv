@@ -1,0 +1,44 @@
+{
+    "key": [
+       { 
+           "key1": "value1",
+           "key2": "value2",
+           "arrayKey": [
+                  {
+                     "arrayKey1": "value1",
+                     "arrayKey2": "value2"
+                  }
+            ]
+       },
+       { 
+           "key1": "value1",
+           "key2": "value2",
+           "arrayKey": [
+                  {
+                     "arrayKey1": "value3",
+                     "arrayKey2": "value4"
+                  }
+            ]
+       },
+       { 
+        "key1": "valuex",
+        "key2": "valuey",
+        "arrayKey": [
+               {
+                  "arrayKey1": "value5",
+                  "arrayKey2": "value6"
+               }
+         ]
+    },
+    { 
+        "key1": "valuex",
+        "key2": "valuey",
+        "arrayKey": [
+               {
+                  "arrayKey1": "value7",
+                  "arrayKey2": "value8"
+               }
+         ]
+    }
+  ]
+  }
